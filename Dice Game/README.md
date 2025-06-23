@@ -21,3 +21,5 @@ This is a simple dice rolling game built using **React** and **Vite**. The proje
 1. Clone the repo:
    ```bash
    git clone https://github.com/aditisingh2903/dice-game.git
+
+##Deployemjent Link - https://684a8c51ae44ae21c30163cd--reactdicegame29.netlify.app/
